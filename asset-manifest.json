@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Akhmadullo-Shokirov/React-ToDo-App/static/css/main.a617e044.chunk.css",
+    "main.js": "/Akhmadullo-Shokirov/React-ToDo-App/static/js/main.4c6075db.chunk.js",
+    "main.js.map": "/Akhmadullo-Shokirov/React-ToDo-App/static/js/main.4c6075db.chunk.js.map",
+    "runtime-main.js": "/Akhmadullo-Shokirov/React-ToDo-App/static/js/runtime-main.b5d55def.js",
+    "runtime-main.js.map": "/Akhmadullo-Shokirov/React-ToDo-App/static/js/runtime-main.b5d55def.js.map",
+    "static/js/2.2c879135.chunk.js": "/Akhmadullo-Shokirov/React-ToDo-App/static/js/2.2c879135.chunk.js",
+    "static/js/2.2c879135.chunk.js.map": "/Akhmadullo-Shokirov/React-ToDo-App/static/js/2.2c879135.chunk.js.map",
+    "static/js/3.7867cb9d.chunk.js": "/Akhmadullo-Shokirov/React-ToDo-App/static/js/3.7867cb9d.chunk.js",
+    "static/js/3.7867cb9d.chunk.js.map": "/Akhmadullo-Shokirov/React-ToDo-App/static/js/3.7867cb9d.chunk.js.map",
+    "index.html": "/Akhmadullo-Shokirov/React-ToDo-App/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Akhmadullo-Shokirov/React-ToDo-App/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2c879135.chunk.js.LICENSE.txt": "/Akhmadullo-Shokirov/React-ToDo-App/static/js/2.2c879135.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Akhmadullo-Shokirov/React-ToDo-App/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5d55def.js",
+    "static/js/2.2c879135.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4c6075db.chunk.js"
+  ]
+}
